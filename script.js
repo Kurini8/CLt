@@ -1,3 +1,4 @@
+//Gustavo p. barreto 16/10/24 
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
